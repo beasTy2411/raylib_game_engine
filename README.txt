@@ -1,0 +1,3 @@
+Hi, I am new developer recently switching from the design field to development field with interest in Game Development and Low Level C programming. I am currently learning about Game engines and came across this library used to create game in C called Raylib.
+
+Since raylib is beginner friendly, I thought to learn the basic of working of a game engine with the help of this library and develop a simple working game engine. I am not sure how this will pan out but hoping I will be able to achieve what I have planned.
