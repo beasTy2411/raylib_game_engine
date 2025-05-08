@@ -4,7 +4,6 @@
 int main()
 {   
     Engine_Init();
-    Engine_Update();
     Engine_Run();
     Engine_Shutdown();
 

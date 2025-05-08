@@ -7,6 +7,8 @@ typedef enum{
     SCENE_GAMEPLAY
 }SceneID;
 
+static SceneID current_scene;
+
 void Scene_Init();
 void Scene_Update();
 void Scene_Draw();
